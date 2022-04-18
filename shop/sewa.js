@@ -17,11 +17,11 @@ return `「 *PRICE LIST* 」
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/6288289729113
 
 
 NOTE : 
-Bot On 24 Jam Karna Di Run Menggunakan Heroku
+Bot On 24 Jam Karna Di Run Menggunakan Heroku/replit
 Reset Data Setiap Jam 02:00 `
 	}
 
